@@ -1,4 +1,4 @@
-# Pokémon Purple and Pink [![Build Status][travis-badge]][travis]
+# Pokémon Purple and Pink
 
 This is a fan made game, built on the disassembly of Pokémon Red and Blue by [[pret]].
 
